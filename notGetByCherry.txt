@@ -1,0 +1,1 @@
+Ce fichier ne doit pas être récupéré lors de la récupération de la branche cherry
